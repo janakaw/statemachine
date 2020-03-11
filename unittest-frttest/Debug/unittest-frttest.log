@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  test.cpp
+test.obj : error LNK2019: unresolved external symbol "public: __thiscall FTRTestProgram::StateContext::StateContext(void)" (??0StateContext@FTRTestProgram@@QAE@XZ) referenced in function "private: virtual void __thiscall StateContextTests_Test1_Test::TestBody(void)" (?TestBody@StateContextTests_Test1_Test@@EAEXXZ)
+test.obj : error LNK2019: unresolved external symbol "public: enum FTRTestProgram::StateEnum __thiscall FTRTestProgram::StateContext::getState(void)" (?getState@StateContext@FTRTestProgram@@QAE?AW4StateEnum@2@XZ) referenced in function "private: virtual void __thiscall StateContextTests_Test1_Test::TestBody(void)" (?TestBody@StateContextTests_Test1_Test@@EAEXXZ)
+C:\Users\janaka\source\repos\ftrtest\Debug\unittest-frttest.exe : fatal error LNK1120: 2 unresolved externals

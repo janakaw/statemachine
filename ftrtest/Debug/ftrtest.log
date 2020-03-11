@@ -1,0 +1,8 @@
+﻿  AwaitInputState.cpp
+  ftrtest.cpp
+  PauseState.cpp
+  QuittingState.cpp
+  RunningState.cpp
+  StateContext.cpp
+  Generating Code...
+  ftrtest.vcxproj -> C:\Users\janaka\source\repos\ftrtest\Debug\ftrtest.exe

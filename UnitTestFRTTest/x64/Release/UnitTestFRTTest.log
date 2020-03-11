@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTestFRTTest.cpp
+     Creating library C:\Users\janaka\source\repos\ftrtest\x64\Release\UnitTestFRTTest.lib and object C:\Users\janaka\source\repos\ftrtest\x64\Release\UnitTestFRTTest.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 167 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UnitTestFRTTest.vcxproj -> C:\Users\janaka\source\repos\ftrtest\x64\Release\UnitTestFRTTest.dll
